@@ -36,3 +36,9 @@
 **Other Qualifications:**  
 <img src="https://img.shields.io/badge/-CFA-0072C6?style=flat&logo=none&logoColor=white">
 
+
+### Projects
+
+**[URL Shortener]([https://github.com/LeeIsaac/url-shortener](https://url-shortener-frontend-sigma-seven.vercel.app/))** | Next.js, FastAPI, Google Cloud Run, PostgreSQL, Docker  
+🔗 Cloud-native URL shortener with <50ms latency, click analytics, and serverless deployment.  
+
