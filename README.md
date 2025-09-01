@@ -42,3 +42,6 @@
 **[URL Shortener](https://url-shortener-frontend-sigma-seven.vercel.app/)** | Next.js, FastAPI, Google Cloud Run, PostgreSQL, Docker  
 🔗 Cloud-native URL shortener with <50ms latency, click analytics, and serverless deployment.
 
+**Earnings Scraper** | Python, PostgreSQL  
+💻 Automated scraper pulling earnings data, storing it in PostgreSQL, and generating daily analytics.  
+
