@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Isaac
 🎓 CS @ Penn Engineering (Class of 2027)<br/>
 😎 Software Engineer Intern @ Lanterns AI<br/>
-🌱 Previously, worked as an Equity Research Analyst for 5+ years<br/>
+🌱 Previously, worked as an Fundamental Equity Research Analyst for 5+ years<br/>
 ⚡ Specialize in full-stack software development and data analytics<br/>
 
 ### Languages & Technical Skills
